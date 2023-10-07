@@ -189,7 +189,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: events
     content:
       title: Recent & Upcomin Talks
       filters:
