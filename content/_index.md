@@ -85,7 +85,7 @@ sections:
           location: Sarajevo, BiH
           date_start: '2023-07-01'
           date_end: 'https://verlabinstitute.com/'
-          description: Participated on various research projects conducted at the institute in the field of bioinformatics and artificial intelligence. Worked on development of ML models, as well as development of REST API using Django, deploying the API and managing the development environment. Furthermore, I have worked on preparing research papers for publication.
+          description: developent. Furthermore, I have worked on preparing research papers for publication.
         - title: Software Developer
           company: Digiqal
           company_url: 'https://digiqal.de/'
