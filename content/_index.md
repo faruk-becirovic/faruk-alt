@@ -78,30 +78,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Machine Learning Engineer
+          company: Verlab Institute
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          company_logo: org-x
+          location: Sarajevo, BiH
+          date_start: '2023-07-01'
+          date_end: 'https://verlabinstitute.com/'
+          description: Participated on various research projects conducted at the institute in the field of bioinformatics and artificial intelligence. Worked on development of ML models, as well as development of REST API using Django, deploying the API and managing the development environment. Furthermore, I have worked on preparing research papers for publication.
         - title: Software Developer
           company: Digiqal
-          company_url: ''
+          company_url: 'https://digiqal.de/'
           company_logo: org-x
           location: Munich, DE (Remote)
           date_start: '2022-07-01'
           date_end: '2022-10-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Full-stack software developer with focus on front-end development.
         - title: Data Analyst
           company: SOCIALEXPLORER
-          company_url: ''
+          company_url: 'https://www.socialexplorer.com/'
           company_logo: org-x
           location: Sarajevo, BiH
           date_start: '2021-11-01'
