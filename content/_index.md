@@ -80,12 +80,12 @@ sections:
       items:
         - title: Machine Learning Engineer
           company: Verlab Institute
-          company_url: ''
+          company_url: 'https://verlabinstitute.com/'
           company_logo: org-x
           location: Sarajevo, BiH
           date_start: '2023-07-01'
-          date_end: 'https://verlabinstitute.com/'
-          description: developent. Furthermore, I have worked on preparing research papers for publication.
+          date_end: ''
+          description: Participated on various research projects conducted at the institute in the field of bioinformatics and artificial intelligence. Worked on development of ML models, as well as development of REST API using Django, deploying the API and managing the development environment. Furthermore, I have worked on preparing research papers for publication.
         - title: Software Developer
           company: Digiqal
           company_url: 'https://digiqal.de/'
