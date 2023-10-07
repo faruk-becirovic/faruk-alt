@@ -4,14 +4,12 @@ bio: My interests include application of machine learning and numerical analysis
   in bioengineering and agriculture.
 interests:
   - Artificial Intelligence
+  - MachineLearning
+  - Numerical Analysis
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/faruk-becirovic
-    label: GitHub
   - display:
       header: false
     link: https://orcid.org/0009-0006-8127-1647
@@ -22,6 +20,10 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Faruk_Becirovic
     label: ResearchGate
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/faruk-becirovic
+    label: GitHub
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/faruk-becirovic-57b7101a0/
