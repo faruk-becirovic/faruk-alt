@@ -194,7 +194,7 @@ sections:
   - block: collection
     id: events
     content:
-      title: Recent & Upcomin Talks
+      title: Recent & Upcomin Events
       filters:
         folders:
           - event
