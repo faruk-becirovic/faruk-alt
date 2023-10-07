@@ -78,29 +78,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Machine Learning Engineer
-          company: Verlab Institute
-          company_url: 'https://verlabinstitute.com/'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
           company_logo: org-gc
-          location: Sarajevo, BiH
-          date_start: '2023-07-01'
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
-          description: Participated on various research projects conducted at the institute in the field of bioinformatics and artificial intelligence. Worked on development of ML models, as well as development of REST API using Django, deploying the API and managing the development environment. Furthermore, I have worked on preparing research papers for publication.
-        - title: Software Developer
-          company: Digiqal
-          company_url: 'https://digiqal.de/'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
           company_logo: org-x
-          location: Munich, DE (Remote)
-          date_start: '2022-07-01'
-          date_end: '2022-10-01'
-          description: Full stack software developer with focus on front-end development
-        - title: Data Analyst
-          company: SOCIALEXPLORER
-          company-url: 'https://www.socialexplorer.com/'
-          date-start: '2021-11-01'
-          date-end: '2022-03-01'
-          company-logo: 'org-x'
-          description: 'Collection of data using web-scraping techniques, import, inspection, cleaning, transformation and validation of data.'
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
