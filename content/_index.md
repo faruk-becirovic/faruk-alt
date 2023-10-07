@@ -57,9 +57,9 @@ sections:
           description:
           icon: chart-simple
           icon_pack: fas
-        - name: Docker
-          icon: docker
-          icon-pack: fab
+        - name: Bioinformatics
+          icon: dna
+          icon-pack: fas
         - name: Data Engineering
           icon: database
           icon-pack: fas
