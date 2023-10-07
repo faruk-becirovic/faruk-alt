@@ -91,14 +91,22 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Software Developer
+          company: Digiqal
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Munich, DE (Remote)
+          date_start: '2022-07-01'
+          date_end: '2022-10-01'
           description: Taught electronic engineering and researched semiconductor physics.
+        - title: Data Analyst
+          company: SOCIALEXPLORER
+          company_url: ''
+          company_logo: org-x
+          location: Sarajevo, BiH
+          date_start: '2021-11-01'
+          date_end: '2022-03-31'
+          description: Collection of data using web-scraping techniques, import, inspection, cleaning, transformation and validation of data.
     design:
       columns: '2'
   - block: collection
