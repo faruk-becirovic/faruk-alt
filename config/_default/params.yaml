@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: montserrat
   font_size: L
 
 # SEO
@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A peronal web-page for a software engineer, data analyst, machine learning engineer interested in artificial intelligence and numerical analysis'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,9 +44,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Faruk Becirovic.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -55,8 +54,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Mon, 02 Jan 2006'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
