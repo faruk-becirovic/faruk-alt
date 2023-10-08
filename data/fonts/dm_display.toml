@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=DM+Serif+Display:ital@0;1&family=Source+Code+Pro:wght@400;500"
+
+# Font families
+heading_font = "DM Serif Display"
+body_font = "DM Serif Display"
+nav_font = "DM Serif Display"
+mono_font = "Source Code Pro"
