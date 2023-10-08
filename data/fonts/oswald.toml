@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Oswald"
+
+# Optional Google font URL
+google_fonts = "Oswald:wght@200;300;400;700&family=Source+Code+Pro:wght@400;500"
+
+# Font families
+heading_font = "Oswald"
+body_font = "Oswald"
+nav_font = "Oswald"
+mono_font = "Source Code Pro"
