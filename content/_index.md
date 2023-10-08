@@ -81,7 +81,7 @@ sections:
         - title: Machine Learning Engineer
           company: Verlab Institute
           company_url: 'https://verlabinstitute.com/'
-          company_logo: org-x
+          company_logo: 
           location: Sarajevo, BiH
           date_start: '2023-07-01'
           date_end: ''
@@ -89,7 +89,7 @@ sections:
         - title: Software Developer
           company: Digiqal
           company_url: 'https://digiqal.de/'
-          company_logo: org-x
+          company_logo: 
           location: Munich, DE (Remote)
           date_start: '2022-07-01'
           date_end: '2022-10-01'
@@ -97,7 +97,7 @@ sections:
         - title: Data Analyst
           company: SOCIALEXPLORER
           company_url: 'https://www.socialexplorer.com/'
-          company_logo: org-x
+          company_logo: 
           location: Sarajevo, BiH
           date_start: '2021-11-01'
           date_end: '2022-03-31'
