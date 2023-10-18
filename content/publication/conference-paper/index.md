@@ -13,7 +13,11 @@ authors:
   - Faruk Imamović
   - Eldin Ćurovac
   - and Zeynep Sağir
-summary: ""
+summary: >-
+  Modern cities in Europe and the World face many challenges that are caused by
+  growth, both economic
+
+  and population. To overcome these challenges it is necessary to integrate advanced technologies into our cities, as well as wider society, through process of digital transformations that will lead to evolution of the better, smart cities.
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 author_notes: []
@@ -32,7 +36,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
