@@ -48,7 +48,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Machine Learning Engineer
+        - title: System Engineer
           company: Verlab Institute
           company_url: 'https://verlabinstitute.com/'
           company_logo: 
