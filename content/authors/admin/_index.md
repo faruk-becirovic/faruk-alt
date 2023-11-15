@@ -45,7 +45,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Machine Learning Engineer
+role: System Engineer
 highlight_name: true
 title: Faruk Becirovic
 first_name: Alice
